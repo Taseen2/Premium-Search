@@ -44,7 +44,7 @@ Users can search products in real-time with a clean premium-style UI.
 - Regular Expressions
 
 
-## 🌐 Live Demo : 
+## 🌐 Live Demo : https://taseen2.github.io/Premium-Search/
 
 
 
